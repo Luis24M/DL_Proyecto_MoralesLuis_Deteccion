@@ -1,0 +1,1 @@
+{'model': 'YOLOv8s', 'mAP50': 0.90756, 'mAP50_95': 0.71433, 'precision': 0.9239, 'recall': 0.84689, 'training_time': 0.5953516260120604, 'final_epoch': 50, 'params': '416px, batch=8'}
