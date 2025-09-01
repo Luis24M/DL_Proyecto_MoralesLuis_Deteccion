@@ -1,6 +1,6 @@
 # Detección de Pólipos en Colonoscopia con YOLOv8
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Luis24M/DL_Proyecto_MoralesLuis_Deteccion/blob/main/Deteccion_polipos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Luis24M/DL_Proyecto_MoralesLuis_Deteccion/blob/main/Proyecto_Deteccion.ipynb)
 
 ## Ruta elegida y Dataset
 - **Ruta:** Detección de objetos (pólipos en imágenes de colonoscopia).
